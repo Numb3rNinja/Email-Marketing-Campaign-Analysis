@@ -53,8 +53,19 @@ The email marketing campaign, spanning 2020–2025 with 20,000 emails sent, demo
 The email marketing campaign, with 20,000 emails sent over 2020–2025, reveals a robust yet improvable performance profile. The campaign achieved a 25.11% open rate, translating to 5,033 emails opened, which aligns with industry benchmarks (20–30%) and indicates moderate success in capturing audience attention. However, the significant drop from sent to opened emails (74.89% not opened) suggests that subject lines or send timing may not fully resonate with recipients, presenting an opportunity for optimization. Progressing through the funnel, the 10.04% click rate (2,012 clicks) reflects that 40% of openers engaged with the content, signaling relevant email content but potential weaknesses in call-to-action (CTA) clarity or appeal. The conversion rate of 2.74% (590 conversions) is a critical bottleneck, as only 29.32% of clickers completed the desired action, highlighting issues in post-click experiences, such as landing page design or offer relevance. 
 ![Image](https://github.com/user-attachments/assets/2ef5603a-04ac-4b7a-8ac3-f3b184fd6c43)  
 
+**Email Type Distribution**
+
 The near-equal distribution of email types—Transactional (33.46%), Promotional (33.37%), and Newsletter (33.17%)—reflects a balanced campaign strategy that caters to diverse audience needs, from operational communications to promotional offers and informational content.
 ![Image](https://github.com/user-attachments/assets/8515c733-09d3-4dca-a2cd-8a1222afcb0d)
 
+**Engagement by Email Type**
+
 The engagement metrics reveal nuanced differences across email types. Promotional emails lead with a 25.14% open rate, 10.06% click rate, and 2.77% conversion rate, likely driven by compelling offers or targeted CTAs that resonate with recipients. Newsletters perform closely behind, with a 25.15% open rate, 10.00% click rate, and 2.74% conversion rate, suggesting consistent but unremarkable engagement that could benefit from more dynamic content. Transactional emails, surprisingly, trail with a 25.04% open rate, 10.05% click rate, and 2.72% conversion rate, an unexpected underperformance given their typically high relevance (e.g., order confirmations). This lower open rate for transactional emails may point to generic or uninspiring subject lines, warranting further investigation into subject line optimization or send timing.
-![Image](https://github.com/user-attachments/assets/311e1c12-74aa-40c3-915e-a11a78f0c84f)
+![Image](https://github.com/user-attachments/assets/311e1c12-74aa-40c3-915e-a11a78f0c84f) 
+
+**Monthly Conversion Trends**
+
+Temporal analysis of conversion rates over 2020–2025 shows remarkable stability, ranging from 2.66% in February to 2.82% in April and December, with a tight variance of 0.16%. The peaks in April and December likely reflect seasonal trends, such as spring promotions or holiday sales, which drive higher audience intent to convert. Conversely, the dips in February (2.66%) and November (2.67%) may indicate audience fatigue, competing holidays, or suboptimal campaign timing, suggesting a need to explore external factors or adjust send schedules. 
+
+The unsubscribe rate analysis by device type—Desktop (1.007%), Mobile (1.003%), and Tablet (0.999%)—reveals near-identical performance, with a negligible 0.008% range. This consistency indicates a seamless user experience across devices, with tablets’ slightly lower unsubscribe rate potentially reflecting a more intentional or engaged audience, though the difference is minimal and does not signal device-specific issues.
+
