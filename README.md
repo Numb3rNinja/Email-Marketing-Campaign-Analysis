@@ -96,6 +96,3 @@ The unsubscribe rate analysis by device type—Desktop (1.007%), Mobile (1.003%)
 - **Issue**: Unsubscribe rates are consistent across devices, but mobile dominates email opens industry-wide.
 - **Action**: Ensure all emails are optimized for mobile (e.g., responsive design, concise content). Analyze `Device_Type` data to confirm open/click rates by device and prioritize mobile-first design if mobile underperforms.
 
-### Explore Subject Line and Timing Analysis
-- **Opportunity**: The dataset includes `Subject_Line` and `Send_Date`, which can reveal drivers of open rates.
-- **Action**: Conduct a detailed analysis of subject line length, tone, and keywords correlated with higher open rates. Use `Send_Date` to test optimal send times (e.g., weekdays vs. weekends, morning vs. evening).
