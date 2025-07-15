@@ -66,6 +66,9 @@ The engagement metrics reveal nuanced differences across email types. Promotiona
 **Monthly Conversion Trends**
 
 Temporal analysis of conversion rates over 2020–2025 shows remarkable stability, ranging from 2.66% in February to 2.82% in April and December, with a tight variance of 0.16%. The peaks in April and December likely reflect seasonal trends, such as spring promotions or holiday sales, which drive higher audience intent to convert. Conversely, the dips in February (2.66%) and November (2.67%) may indicate audience fatigue, competing holidays, or suboptimal campaign timing, suggesting a need to explore external factors or adjust send schedules. 
+![Image](https://github.com/user-attachments/assets/11e33348-dea6-4517-bfdf-979c7dcacdf8)
+
+**Unsubscribe Rate by Devices**
 
 The unsubscribe rate analysis by device type—Desktop (1.007%), Mobile (1.003%), and Tablet (0.999%)—reveals near-identical performance, with a negligible 0.008% range. This consistency indicates a seamless user experience across devices, with tablets’ slightly lower unsubscribe rate potentially reflecting a more intentional or engaged audience, though the difference is minimal and does not signal device-specific issues.
 
