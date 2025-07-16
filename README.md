@@ -45,7 +45,7 @@ The dataset forms the backbone of the Email Marketing Campaign Performance Dashb
 
 ### Overview of Findings
 The email marketing campaign, spanning 2020–2025 with 20,000 emails sent, demonstrates solid performance with a 25.11% open rate and a 10.04% click rate, though the 2.74% conversion rate suggests opportunities to strengthen the conversion funnel. Low unsubscribe (1.00%) and bounce rates (2.02%) reflect high audience retention and deliverability. The email type distribution is nearly balanced (Transactional: 33.46%, Promotional: 33.37%, Newsletter: 33.17%), indicating a diversified strategy. Promotional emails slightly outperform others in click (10.06%) and conversion rates (2.77%), while transactional emails lag in open rates (25.04%). Monthly conversion rates remain stable (2.66%–2.82%), with peaks in April and December (2.82%) suggesting seasonal opportunities. Unsubscribe rates are consistent across devices (Desktop: 1.007%, Mobile: 1.003%, Tablet: 0.999%), confirming a uniform user experience.
-![Image](https://github.com/user-attachments/assets/170c5e9f-a775-4d1b-9f3a-a6dda93813d6)
+![Image](https://github.com/user-attachments/assets/e5dc59f8-ce4b-4447-bef6-f4243e156e11)
 
 ## Insights Deep-Dive
 **Email Campaign Progression**
