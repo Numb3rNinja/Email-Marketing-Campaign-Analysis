@@ -71,7 +71,7 @@ Temporal analysis of conversion rates over 2020–2025 shows remarkable stabilit
 **Unsubscribe Rate by Devices**
 
 Device-level unsubscribes show statistically insignificant variation—desktop (1.007%), mobile (1.003%), and tablet (0.999%)—effectively eliminating device-specific user experience issues as primary attrition drivers. This near-uniformity instead points toward systemic factors: 1) Global content relevance gaps, 2) Uniform frequency sensitivity across devices, or 3) List segmentation deficiencies. The absence of mobile-specific attrition (typically the highest due to rendering issues) confirms responsive design effectiveness. However, desktop’s marginally higher rate may hint at multi-device users formally unsubscribing when accessing preference centers on larger screens.
-![Image](https://github.com/user-attachments/assets/c913b60a-9a6c-4e2f-ac60-7987416b1e0d) 
+![Image](https://github.com/user-attachments/assets/b50bb917-303d-45ff-b95d-80dd36cff728)
   
 ### Critical Opportunities & Recommendations  
 1. **Reduce Unsubscribes**:  
