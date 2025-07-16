@@ -56,7 +56,7 @@ The email marketing campaign, with 20,000 emails sent over 2020–2025, reveals 
 **Email Type Distribution**
 
 The near-perfect equilibrium between transactional (33.46%), promotional (33.37%), and newsletter (33.17%) emails reflects a strategically balanced approach to audience communication. This distribution mitigates reliance on any single email category, reducing engagement volatility risks. The parity suggests intentional resource allocation across: 1) Relationship-building newsletters, 2) Revenue-driving promotional offers, and 3) Operational transactional messages—creating a holistic communication ecosystem. Notably, the absence of category dominance prevents audience fatigue while allowing synergistic cross-promotion opportunities (e.g., embedding promotional CTAs in transactional emails).
-![Image](https://github.com/user-attachments/assets/8515c733-09d3-4dca-a2cd-8a1222afcb0d) 
+![Image](https://github.com/user-attachments/assets/396fa145-aa58-4baf-9117-e450b97b6801)
   
 **Engagement by Email Type**
 
