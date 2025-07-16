@@ -61,7 +61,7 @@ The near-perfect equilibrium between transactional (33.46%), promotional (33.37%
 **Engagement by Email Type**
 
 The engagement metrics reveal nuanced differences across email types. Promotional emails lead with a 25.14% open rate, 10.06% click rate, and 2.77% conversion rate, likely driven by compelling offers or targeted CTAs that resonate with recipients. Newsletters perform closely behind, with a 25.15% open rate, 10.00% click rate, and 2.74% conversion rate, suggesting consistent but unremarkable engagement that could benefit from more dynamic content. Transactional emails, surprisingly, trail with a 25.04% open rate, 10.05% click rate, and 2.72% conversion rate, an unexpected underperformance given their typically high relevance (e.g., order confirmations). This lower open rate for transactional emails may point to generic or uninspiring subject lines, warranting further investigation into subject line optimization or send timing.
-![Image](https://github.com/user-attachments/assets/311e1c12-74aa-40c3-915e-a11a78f0c84f) 
+ ![Image](https://github.com/user-attachments/assets/3a8e51cf-8d26-43ef-ad8f-4eda4dacf2a3)
 
 **Monthly Conversion Trends**
 
