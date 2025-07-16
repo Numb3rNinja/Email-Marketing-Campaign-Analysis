@@ -55,9 +55,9 @@ The email marketing campaign, with 20,000 emails sent over 2020–2025, reveals 
 
 **Email Type Distribution**
 
-The near-equal distribution of email types—Transactional (33.46%), Promotional (33.37%), and Newsletter (33.17%)—reflects a balanced campaign strategy that caters to diverse audience needs, from operational communications to promotional offers and informational content.
-![Image](https://github.com/user-attachments/assets/8515c733-09d3-4dca-a2cd-8a1222afcb0d)
-
+The near-perfect equilibrium between transactional (33.46%), promotional (33.37%), and newsletter (33.17%) emails reflects a strategically balanced approach to audience communication. This distribution mitigates reliance on any single email category, reducing engagement volatility risks. The parity suggests intentional resource allocation across: 1) Relationship-building newsletters, 2) Revenue-driving promotional offers, and 3) Operational transactional messages—creating a holistic communication ecosystem. Notably, the absence of category dominance prevents audience fatigue while allowing synergistic cross-promotion opportunities (e.g., embedding promotional CTAs in transactional emails).
+![Image](https://github.com/user-attachments/assets/8515c733-09d3-4dca-a2cd-8a1222afcb0d) 
+  
 **Engagement by Email Type**
 
 The engagement metrics reveal nuanced differences across email types. Promotional emails lead with a 25.14% open rate, 10.06% click rate, and 2.77% conversion rate, likely driven by compelling offers or targeted CTAs that resonate with recipients. Newsletters perform closely behind, with a 25.15% open rate, 10.00% click rate, and 2.74% conversion rate, suggesting consistent but unremarkable engagement that could benefit from more dynamic content. Transactional emails, surprisingly, trail with a 25.04% open rate, 10.05% click rate, and 2.72% conversion rate, an unexpected underperformance given their typically high relevance (e.g., order confirmations). This lower open rate for transactional emails may point to generic or uninspiring subject lines, warranting further investigation into subject line optimization or send timing.
@@ -70,10 +70,9 @@ Temporal analysis of conversion rates over 2020–2025 shows remarkable stabilit
 
 **Unsubscribe Rate by Devices**
 
-The unsubscribe rate analysis by device type—Desktop (1.007%), Mobile (1.003%), and Tablet (0.999%)—reveals near-identical performance, with a negligible 0.008% range. This consistency indicates a seamless user experience across devices, with tablets’ slightly lower unsubscribe rate potentially reflecting a more intentional or engaged audience, though the difference is minimal and does not signal device-specific issues.
-![Image](https://github.com/user-attachments/assets/c913b60a-9a6c-4e2f-ac60-7987416b1e0d)
-
-
+Device-level unsubscribes show statistically insignificant variation—desktop (1.007%), mobile (1.003%), and tablet (0.999%)—effectively eliminating device-specific user experience issues as primary attrition drivers. This near-uniformity instead points toward systemic factors: 1) Global content relevance gaps, 2) Uniform frequency sensitivity across devices, or 3) List segmentation deficiencies. The absence of mobile-specific attrition (typically the highest due to rendering issues) confirms responsive design effectiveness. However, desktop’s marginally higher rate may hint at multi-device users formally unsubscribing when accessing preference centers on larger screens.
+![Image](https://github.com/user-attachments/assets/c913b60a-9a6c-4e2f-ac60-7987416b1e0d) 
+  
 ### Critical Opportunities & Recommendations  
 1. **Reduce Unsubscribes**:  
    - Implement preference centers for frequency control.  
