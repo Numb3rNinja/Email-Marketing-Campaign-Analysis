@@ -51,7 +51,7 @@ The email marketing campaign, spanning 2020–2025 with 20,000 emails sent, demo
 **Email Campaign Progression**
 
 The email marketing campaign, with 20,000 emails sent over 2020–2025, reveals a robust yet improvable performance profile. The campaign achieved a 25.11% open rate, translating to 5,033 emails opened, which aligns with industry benchmarks (20–30%) and indicates moderate success in capturing audience attention. However, the significant drop from sent to opened emails (74.89% not opened) suggests that subject lines or send timing may not fully resonate with recipients, presenting an opportunity for optimization. Progressing through the funnel, the 10.04% click rate (2,012 clicks) reflects that 40% of openers engaged with the content, signaling relevant email content but potential weaknesses in call-to-action (CTA) clarity or appeal. The conversion rate of 2.74% (590 conversions) is a critical bottleneck, as only 29.32% of clickers completed the desired action, highlighting issues in post-click experiences, such as landing page design or offer relevance. 
-![Image](https://github.com/user-attachments/assets/2ef5603a-04ac-4b7a-8ac3-f3b184fd6c43)  
+ ![Image](https://github.com/user-attachments/assets/7703f3c4-65f6-46af-872c-2fe8204778fd)
 
 **Email Type Distribution**
 
